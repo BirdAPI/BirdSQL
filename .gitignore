@@ -1,1 +1,4 @@
 /.idea
+/birdsql.egg-info
+/build
+/dist
